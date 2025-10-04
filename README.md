@@ -1,21 +1,20 @@
-💼 CyberMindWorks Job Portal
-
+#💼 CyberMindWorks Job Portal
 Find Jobs. Post Jobs. Connect Talent.
 A modern, responsive full-stack job portal built with Next.js 15, Mantine UI, PostgreSQL, and TypeScript.
 
-🌐 Live Demo: https://your-deployed-link.vercel.app
+🌐 Live Demo: https://my-f2679ht48-arjuns-projects-6ac8da13.vercel.app/
 
-🚀 Features
+##🚀 Features
 
-✨ Modern UI & UX — Clean, responsive, and smooth interactions using Mantine & Tabler Icons.
-⚙️ Full CRUD Functionality — Create, view, and filter job listings with live updates.
-📅 Smart Filtering — Filter jobs by title, location, type, and salary range dynamically.
-🧠 PostgreSQL Backend — Structured, scalable, and secure database integration.
-🪄 Real-time Search — Typeahead filtering for smooth job discovery.
-🌈 Responsive Design — Optimized for desktop, tablet, and mobile.
-🔒 TypeScript Strict Mode — Type safety across all components.
+- ✨ Modern UI & UX — Clean, responsive, and smooth interactions using Mantine & Tabler Icons.
+- ⚙️ Full CRUD Functionality — Create, view, and filter job listings with live updates.
+- 📅 Smart Filtering — Filter jobs by title, location, type, and salary range dynamically.
+- 🧠 PostgreSQL Backend — Structured, scalable, and secure database integration.
+- 🪄 Real-time Search — Typeahead filtering for smooth job discovery.
+- 🌈 Responsive Design — Optimized for desktop, tablet, and mobile.
+- 🔒 TypeScript Strict Mode — Type safety across all components.
 
-🏗️ Tech Stack
+##🏗️ Tech Stack
 Layer	Technology
 Frontend	Next.js 15 (App Router)
 
@@ -33,19 +32,19 @@ Version Control	Git & GitHub
 
 Discover jobs by category and explore openings across cities.
 
-🔍 Filters Bar
+###🔍 Filters Bar
 
 Search by title, job type, location, and salary — all responsive!
 
-💬 Job Cards
+###💬 Job Cards
 
 Minimal design with hover effects and responsive layout.
 
-🧾 Create Job Modal
+###🧾 Create Job Modal
 
 Add new job postings with smooth transitions and validations.
 
-🧩 Folder Structure
+##🧩 Folder Structure
 app/
  ┣ components/
  ┃ ┣ FiltersBar.tsx
@@ -59,7 +58,7 @@ app/
  ┣ globals.css
  ┗ layout.tsx
 
-🛠️ Setup Instructions
+##🛠️ Setup Instructions
 1️⃣ Clone the Repository
 git clone https://github.com/yourusername/job-portal.git
 cd job-portal
@@ -97,7 +96,7 @@ NEXT_PUBLIC_API_URL
 
 ✅ Automatically builds and deploys on every push to main.
 
-👨‍💻 Author
+##👨‍💻 Author
 
 [Your Name]
 💼 CyberMindWorks
@@ -106,7 +105,7 @@ NEXT_PUBLIC_API_URL
 
 🐙 GitHub
 
-🧠 Learnings & Highlights
+##🧠 Learnings & Highlights
 
 Building responsive layouts with Mantine Grid & Group.
 
@@ -116,7 +115,7 @@ Optimizing components for accessibility and scalability.
 
 Designing hover and transition effects with pure CSS modules.
 
-❤️ Acknowledgements
+##❤️ Acknowledgements
 
 Special thanks to:
 
@@ -126,14 +125,14 @@ Tabler Icons for the open-source icons.
 
 Next.js Team for the App Router advancements.
 
-🏁 Future Enhancements
+##🏁 Future Enhancements
 
 🚧 Authentication (JWT / OAuth)
 📈 Dashboard analytics for employers
 🔔 Real-time job notifications
 📬 Candidate applications tracking
 
-🌟 Show Your Support
+##🌟 Show Your Support
 
 If you like this project:
 ⭐ Star the repo
