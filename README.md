@@ -148,16 +148,6 @@ Simply connect your GitHub repository and set the environment variables:
 
 ---
 
-## ❤️ Acknowledgements
-
-Special thanks to:
-
-* **Mantine Team** for their beautiful component library.
-* **Tabler Icons** for the open-source icons.
-* **Next.js Team** for the App Router advancements.
-
----
-
 ## 🏁 Future Enhancements
 
 * 🚧 Authentication (JWT / OAuth)
@@ -166,11 +156,3 @@ Special thanks to:
 * 📬 Candidate applications tracking
 
 ---
-
-## 🌟 Show Your Support
-
-If you like this project:
-
-⭐ **Star the repo**
-💬 **Share it**
-👩‍💻 **Contribute via pull requests**
