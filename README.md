@@ -73,7 +73,7 @@ app/
 1️⃣ **Clone the Repository**
 
 ```bash
-git clone https://github.com/yourusername/job-portal.git
+git clone https://github.com/smooth-glitch/job-portal.git
 cd job-portal
 ```
 
@@ -128,8 +128,7 @@ Simply connect your GitHub repository and set the environment variables:
 **Arjun Sridhar**
 💼 CyberMindWorks
 
-🌐 [LinkedIn](#)
-🐙 [GitHub](#)
+🌐 [LinkedIn](www.linkedin.com/in/arjun-sridhar-6466751b7)
 
 ---
 
@@ -168,12 +167,3 @@ If you like this project:
 ⭐ **Star the repo**
 💬 **Share it**
 👩‍💻 **Contribute via pull requests**
-
-```
-
----
-
-✅ You can now paste that **exact block** into your GitHub `README.md` — it will render perfectly with folder tree code highlighting, consistent spacing, and no broken layout.  
-
-Would you like me to include your name and GitHub profile link so it looks professional before upload?
-```
