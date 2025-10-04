@@ -6,7 +6,7 @@
 </p>
 
 <p align="center">
-  🌐 <a href="https://my-f2679ht48-arjuns-projects-6ac8da13.vercel.app/" target="_blank"><b>Live Demo</b></a> • 🧠 <a href="https://github.com/smooth-glitch/job-portal" target="_blank"><b>Source Code</b></a>
+  🌐 <a href="https://my-f2679ht48-arjuns-projects-6ac8da13.vercel.app/" target="_blank"><b>Live Demo</b></a>
 </p>
 
 ---
