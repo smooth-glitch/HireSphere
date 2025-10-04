@@ -1,4 +1,4 @@
-<h1 align="center">💼 HireSphere</h1>
+<h1 align="center">🌐 HireSphere</h1>
 
 <p align="center">
   <b>Find Jobs. Post Jobs. Connect Talent.</b><br/>
