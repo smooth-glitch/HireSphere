@@ -113,7 +113,7 @@ app/
 
 ```bash
 git clone https://github.com/smooth-glitch/HireSphere.git
-cd job-portal
+cd HireSphere
 ```
 
 ### 2️⃣ Install Dependencies
