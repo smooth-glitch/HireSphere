@@ -1,8 +1,13 @@
-# 💼 CyberMindWorks Job Portal  
-Find Jobs. Post Jobs. Connect Talent.  
-A modern, responsive full-stack job portal built with **Next.js 15**, **Mantine UI**, **PostgreSQL**, and **TypeScript**.
+<h1 align="center">💼 CyberMindWorks Job Portal</h1>
 
-🌐 **Live Demo:** [CyberMindWorks Job Portal](https://my-f2679ht48-arjuns-projects-6ac8da13.vercel.app/)
+<p align="center">
+  <b>Find Jobs. Post Jobs. Connect Talent.</b><br/>
+  A modern, responsive full-stack job portal built with <b>Next.js 15</b>, <b>Mantine UI</b>, <b>PostgreSQL</b>, and <b>TypeScript</b>.
+</p>
+
+<p align="center">
+  🌐 <a href="https://my-f2679ht48-arjuns-projects-6ac8da13.vercel.app/" target="_blank"><b>Live Demo</b></a> • 🧠 <a href="https://github.com/smooth-glitch/job-portal" target="_blank"><b>Source Code</b></a>
+</p>
 
 ---
 
@@ -21,7 +26,7 @@ A modern, responsive full-stack job portal built with **Next.js 15**, **Mantine 
 ## 🏗️ Tech Stack
 
 | Layer | Technology |
-|-------|-------------|
+|:------|:------------|
 | **Frontend** | Next.js 15 (App Router) |
 | **UI Library** | Mantine |
 | **Icons** | Tabler Icons |
@@ -37,34 +42,43 @@ A modern, responsive full-stack job portal built with **Next.js 15**, **Mantine 
 ## 🖼️ Screenshots
 
 ### 🏠 Home Page  
-Discover jobs by category and explore openings across cities : 
+Discover jobs by category and explore openings across cities  
 
-![Diagram](https://github.com/smooth-glitch/JobPosting/blob/main/Home_Page.png)
+<p align="center">
+  <img src="https://github.com/smooth-glitch/JobPosting/blob/main/Home_Page.png" alt="Home Page" width="800"/>
+</p>
 
 ---
 
 ### 🔍 Filters Bar  
-Search by title, job type, location, and salary :
+Search by title, job type, location, and salary  
 
-![Diagram](https://github.com/smooth-glitch/JobPosting/blob/main/Filters_Bar.png)
+<p align="center">
+  <img src="https://github.com/smooth-glitch/JobPosting/blob/main/Filters_Bar.png" alt="Filters Bar" width="800"/>
+</p>
 
 ---
 
 ### 💬 Job Cards  
-Minimal design with hover effects and responsive layout :
+Minimal design with hover effects and responsive layout  
 
-![Diagram](https://github.com/smooth-glitch/JobPosting/blob/main/Job_Cards.png)
+<p align="center">
+  <img src="https://github.com/smooth-glitch/JobPosting/blob/main/Job_Cards.png" alt="Job Cards" width="800"/>
+</p>
 
 ---
 
 ### 🧾 Create Job Modal  
-Add new job postings with smooth transitions and validations :
+Add new job postings with smooth transitions and validations  
 
-![Diagram](https://github.com/smooth-glitch/JobPosting/blob/main/Create_Jobs.png)
+<p align="center">
+  <img src="https://github.com/smooth-glitch/JobPosting/blob/main/Create_Jobs.png" alt="Create Job Modal" width="800"/>
+</p>
 
 ---
 
 ## 🧩 Folder Structure
+
 ```bash
 app/
  ┣ components/
@@ -84,14 +98,14 @@ app/
 
 ## 🛠️ Setup Instructions
 
-1️⃣ **Clone the Repository**
+### 1️⃣ Clone the Repository
 
 ```bash
 git clone https://github.com/smooth-glitch/job-portal.git
 cd job-portal
 ```
 
-2️⃣ **Install Dependencies**
+### 2️⃣ Install Dependencies
 
 ```bash
 npm install
@@ -99,35 +113,34 @@ npm install
 yarn install
 ```
 
-3️⃣ **Configure Database**
+### 3️⃣ Configure Database
 
-Create a PostgreSQL database named `mydb`
-
-Add your connection string in `.env`:
+Create a PostgreSQL database named `mydb` and add your connection string to `.env`:
 
 ```env
 DATABASE_URL="postgresql://username:password@localhost:5432/mydb"
 ```
 
-4️⃣ **Run Migrations**
+### 4️⃣ Run Migrations
 
 ```bash
 npx prisma migrate dev --name init
 ```
 
-5️⃣ **Start the Development Server**
+### 5️⃣ Start the Development Server
 
 ```bash
 npm run dev
 ```
 
-Visit 👉 [http://localhost:3000](http://localhost:3000)
+Then visit 👉 [http://localhost:3000](http://localhost:3000)
 
 ---
 
 ## 🌍 Deployment
 
 **Deployed on Vercel**
+
 Simply connect your GitHub repository and set the environment variables:
 
 * `DATABASE_URL`
@@ -137,17 +150,16 @@ Simply connect your GitHub repository and set the environment variables:
 
 ---
 
-### 📜 License
-    
-This project is licensed under the MIT License. See the LICENSE file for more details.
+## 📜 License
+
+This project is licensed under the **MIT License** — see the [LICENSE](LICENSE) file for details.
 
 ---
 
 ## 👨‍💻 Author
 
 **Arjun Sridhar**
-
-🌐 [LinkedIn](www.linkedin.com/in/arjun-sridhar-6466751b7)
+🌐 [LinkedIn](https://www.linkedin.com/in/arjun-sridhar-6466751b7)
 
 ---
 
@@ -166,5 +178,16 @@ This project is licensed under the MIT License. See the LICENSE file for more de
 * 📈 Dashboard analytics for employers
 * 🔔 Real-time job notifications
 * 📬 Candidate applications tracking
+
+---
+
+<p align="center">
+  <b>⭐ If you like this project — star the repo, share it, and contribute! ⭐</b>
+</p>
+
+<p align="center">
+  Made with ❤️ by <b>Arjun Sridhar</b> | © 2025 CyberMindWorks
+</p>
+```
 
 ---
