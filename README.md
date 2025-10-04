@@ -178,16 +178,3 @@ This project is licensed under the **MIT License** — see the [LICENSE](LICENSE
 * 📈 Dashboard analytics for employers
 * 🔔 Real-time job notifications
 * 📬 Candidate applications tracking
-
----
-
-<p align="center">
-  <b>⭐ If you like this project — star the repo, share it, and contribute! ⭐</b>
-</p>
-
-<p align="center">
-  Made with ❤️ by <b>Arjun Sridhar</b> | © 2025 CyberMindWorks
-</p>
-```
-
----
