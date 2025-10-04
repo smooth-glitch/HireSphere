@@ -41,15 +41,21 @@ Discover jobs by category and explore openings across cities :
 
 ![Diagram](https://github.com/smooth-glitch/JobPosting/blob/main/Home_Page.png)
 
+---
+
 ### 🔍 Filters Bar  
 Search by title, job type, location, and salary :
 
 ![Diagram](https://github.com/smooth-glitch/JobPosting/blob/main/Filters_Bar.png)
 
+---
+
 ### 💬 Job Cards  
 Minimal design with hover effects and responsive layout :
 
 ![Diagram](https://github.com/smooth-glitch/JobPosting/blob/main/Job_Cards.png)
+
+---
 
 ### 🧾 Create Job Modal  
 Add new job postings with smooth transitions and validations :
@@ -133,7 +139,7 @@ Simply connect your GitHub repository and set the environment variables:
 
 ### 📜 License
     
-   This project is licensed under the MIT License. See the LICENSE file for more details.
+This project is licensed under the MIT License. See the LICENSE file for more details.
 
 ---
 
@@ -141,7 +147,7 @@ Simply connect your GitHub repository and set the environment variables:
 
 **Arjun Sridhar**
 
-- 🌐 [LinkedIn](www.linkedin.com/in/arjun-sridhar-6466751b7)
+🌐 [LinkedIn](www.linkedin.com/in/arjun-sridhar-6466751b7)
 
 ---
 
