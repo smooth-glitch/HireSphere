@@ -131,6 +131,12 @@ Simply connect your GitHub repository and set the environment variables:
 
 ---
 
+### 📜 License
+    
+   This project is licensed under the MIT License. See the LICENSE file for more details.
+
+---
+
 ## 👨‍💻 Author
 
 **Arjun Sridhar**
