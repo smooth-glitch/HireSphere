@@ -1,0 +1,12 @@
+/* globals.css or FiltersBar.module.css */
+
+.filter-divider {
+    display: inline-block; /* default on desktop */
+  }
+  
+  @media (max-width: 768px) {
+    .filter-divider {
+      display: none; /* hide when stacked */
+    }
+  }
+  

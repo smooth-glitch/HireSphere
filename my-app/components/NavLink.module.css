@@ -1,0 +1,13 @@
+.navLink {
+    text-decoration: none;
+    color: #111827;
+    font-weight: 500;
+    font-size: 13px;
+    transition: color 0.3s ease, text-decoration 0.3s ease;
+  }
+  
+  .navLink:hover {
+    color: #7B1FA2; /* purple hover */
+    text-decoration: underline;
+  }
+  

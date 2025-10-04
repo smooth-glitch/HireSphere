@@ -1,0 +1,9 @@
+.applyButton {
+    transition: all 0.3s ease;
+  }
+  
+  .applyButton:hover {
+    transform: translateY(-3px); /* slight lift */
+    box-shadow: 0 6px 14px rgba(0, 150, 255, 0.35);
+  }
+  

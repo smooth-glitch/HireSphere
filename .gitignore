@@ -1,0 +1,85 @@
+# =====================================================
+# 🧠 CYBERMINDWORKS JOB PORTAL - GITIGNORE
+# For Next.js + Node.js + Prisma + Mantine
+# =====================================================
+
+# Node.js dependencies
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+package-lock.json
+.pnpm-debug.log
+
+# Next.js build output
+.next/
+out/
+dist/
+build/
+.vercel/
+.vscode/
+*.log
+
+# Local environment variables
+.env
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+
+# OS-generated files
+.DS_Store
+Thumbs.db
+
+# Editor directories and settings
+.idea/
+.vscode/
+*.swp
+*.swo
+*.swn
+*.bak
+
+# TypeScript
+*.tsbuildinfo
+
+# Prisma
+prisma/migrations/
+prisma/dev.db
+prisma/.env
+
+# Coverage (from testing)
+coverage/
+
+# Temporary files
+tmp/
+temp/
+*.tmp
+*.temp
+*.log
+
+# Uploaded files (if any local uploads)
+uploads/
+public/uploads/
+*.bak
+
+# Cache
+.cache/
+.next/cache/
+npm-cache/
+yarn-cache/
+.pnpm-store/
+
+# Misc
+*.env.backup
+*.local
+*.vercel
+*.pid
+*.seed
+
+# =====================================================
+# ✅ SAFE TO COMMIT:
+# - source code
+# - configs (excluding secrets)
+# - public assets (except uploads)
+# =====================================================
