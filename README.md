@@ -126,9 +126,8 @@ Simply connect your GitHub repository and set the environment variables:
 ## 👨‍💻 Author
 
 **Arjun Sridhar**
-💼 CyberMindWorks
 
-🌐 [LinkedIn](www.linkedin.com/in/arjun-sridhar-6466751b7)
+- 🌐 [LinkedIn](www.linkedin.com/in/arjun-sridhar-6466751b7)
 
 ---
 
