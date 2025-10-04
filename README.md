@@ -23,19 +23,30 @@
 
 ---
 
-## 🏗️ Tech Stack
+## 💻 Tech Stack
 
-| Layer | Technology |
-|:------|:------------|
-| **Frontend** | Next.js 15 (App Router) |
-| **UI Library** | Mantine |
-| **Icons** | Tabler Icons |
-| **Styling** | CSS Modules + Scoped Component Styles |
-| **Backend** | Node.js + Express |
-| **Database** | PostgreSQL |
-| **ORM / Querying** | Prisma |
-| **Hosting** | Vercel |
-| **Version Control** | Git & GitHub |
+<p align="center">
+  <!-- Frontend -->
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js"/>
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React"/>
+  <img src="https://img.shields.io/badge/Mantine-339af0?style=for-the-badge&logo=mantine&logoColor=white" alt="Mantine"/>
+  <img src="https://img.shields.io/badge/Tabler%20Icons-2C3E50?style=for-the-badge&logo=tabler&logoColor=white" alt="Tabler Icons"/>
+
+  <!-- Backend -->
+  <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js"/>
+  <img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge" alt="Express.js"/>
+  <img src="https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white" alt="Prisma"/>
+
+  <!-- Database -->
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
+
+  <!-- Tools & Hosting -->
+  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"/>
+  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel"/>
+  <img src="https://img.shields.io/badge/Railway-0B0D0E?style=for-the-badge&logo=railway&logoColor=white" alt="Railway"/>
+  <img src="https://img.shields.io/badge/GitHub-121011?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  <img src="https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
+</p>
 
 ---
 
