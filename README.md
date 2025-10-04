@@ -112,7 +112,7 @@ app/
 ### 1️⃣ Clone the Repository
 
 ```bash
-git clone https://github.com/smooth-glitch/job-portal.git
+git clone https://github.com/smooth-glitch/HireSphere.git
 cd job-portal
 ```
 
