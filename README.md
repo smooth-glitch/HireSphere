@@ -37,19 +37,23 @@ A modern, responsive full-stack job portal built with **Next.js 15**, **Mantine 
 ## 🖼️ Screenshots
 
 ### 🏠 Home Page  
-Discover jobs by category and explore openings across cities.
+Discover jobs by category and explore openings across cities : 
+
 ![Diagram](https://github.com/smooth-glitch/JobPosting/blob/main/Home_Page.png)
 
 ### 🔍 Filters Bar  
-Search by title, job type, location, and salary — all responsive!
+Search by title, job type, location, and salary :
+
 ![Diagram](https://github.com/smooth-glitch/JobPosting/blob/main/Filters_Bar.png)
 
 ### 💬 Job Cards  
-Minimal design with hover effects and responsive layout.
+Minimal design with hover effects and responsive layout :
+
 ![Diagram](https://github.com/smooth-glitch/JobPosting/blob/main/Job_Cards.png)
 
 ### 🧾 Create Job Modal  
-Add new job postings with smooth transitions and validations.
+Add new job postings with smooth transitions and validations :
+
 ![Diagram](https://github.com/smooth-glitch/JobPosting/blob/main/Create_Jobs.png)
 
 ---
